@@ -6,5 +6,3 @@ print(weather)
 
 print(weather.get('country', 'Россия'))
 
-weather['date'] = '27.05.2019'
-print(len(weather))
